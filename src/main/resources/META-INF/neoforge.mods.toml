@@ -1,0 +1,29 @@
+modLoader="javafml"
+loaderVersion="[4,)"
+license="GPL-3.0-only"
+[[mods]]
+modId="handinhand"
+version="0.1.0-beta.1"
+displayName="Hand in Hand"
+authors="Marigold"
+description='''Consensual multiplayer hand holding, with live arm alignment and coordinated walking.'''
+[[dependencies.handinhand]]
+modId="neoforge"
+type="required"
+versionRange="[21.1.250,21.2)"
+ordering="NONE"
+side="BOTH"
+[[mixins]]
+config="handinhand.mixins.json"
+[[dependencies.handinhand]]
+modId="minecraft"
+type="required"
+versionRange="[1.21.1,1.21.2)"
+ordering="NONE"
+side="BOTH"
+[[dependencies.handinhand]]
+modId="player_animation_library"
+type="required"
+versionRange="[1.1.6,1.2)"
+ordering="AFTER"
+side="BOTH"

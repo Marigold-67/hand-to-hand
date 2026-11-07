@@ -1,0 +1,1 @@
+The alpha.10 test report is retained for technical reference. Historical raw TCP traces and evidence were omitted from this clean public source bundle. Results were not re-run during the beta.1 metadata-only promotion.

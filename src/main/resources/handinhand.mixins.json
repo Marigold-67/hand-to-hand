@@ -1,0 +1,1 @@
+{"required": true, "minVersion": "0.8", "package": "dev.marigold.handinhand.mixin", "compatibilityLevel": "JAVA_21", "client": ["LocalPlayerMixin", "PlayerFlightMixin", "EmfModelRootMixin", "RemotePairMixin", "PairWalkMixin", "PassiveCameraMixin"], "injectors": {"defaultRequire": 1}, "mixins": ["ServerLiftMixin", "ServerFollowMixin"]}

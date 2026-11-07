@@ -1,0 +1,6 @@
+{
+  "key.categories.handinhand": "Hand in Hand",
+  "key.handinhand.hold": "Request / release hands",
+  "key.handinhand.release": "Release hands",
+  "key.handinhand.grab": "Grab / release hand (server permission required)"
+}
